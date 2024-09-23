@@ -4,16 +4,17 @@ Welcome to the Simple Interest Calculator project! This repository hosts a simpl
 
 ## Mission
 
-Our mission at our Micro-Finance Startup is to empower low-income individuals by providing them with the tools and knowledge to make informed financial decisions. This project is part of our effort to share resources and support our community.
+Our mission at our Micro-Finance Startup is to empower low-income individuals by providing them with the tools and knowledge to make informed financial decisions. This project is part of our effort to share resources and support our community. A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ## Features
 
 - Calculate simple interest using the formula:  
-  \[ \text{Simple Interest} = \frac{P \times R \times T}{100} \]  
-  where:
-  - **P** = Principal amount
-  - **R** = Rate of interest (per annum)
-  - **T** = Time (in years)
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
 
 - Clear and easy-to-use script to facilitate understanding of interest calculations.
 
